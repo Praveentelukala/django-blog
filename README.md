@@ -26,26 +26,6 @@ This project demonstrates core Django concepts such as authentication, ORM, and 
 
 ---
 
-## 📂 Project Structure
 
-**blog_project**/
-│
-- ├── blog/ # Blog app
-- │ ├── migrations/
-- │ ├── templates/
-- │ ├── models.py
-- │ ├── views.py
-- │ ├── urls.py
-- │
-- ├── blog_project/ # Project settings
-- │ ├── settings.py
-- │ ├── urls.py
-- │ ├── wsgi.py
-- │
-- ├── templates/
-- ├── static/
-- ├── db.sqlite3
-- ├── manage.py
-- └── README.md
 
 
